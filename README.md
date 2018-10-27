@@ -3,7 +3,7 @@
 ### Instructors: Romain Michon and Tim O'Brien
 #### a little help from Mark Hertensteiner
 
-### *Disclaimer:*  This project is from Stanford's 256A course at CCRMA.  I did not know anything about programming here, I leave this repo up because the demo and track in the [Video demo](https://www.youtube.com/watch?v=GeAAXAgaKII) are pretty cool.
+### *Disclaimer:*  This project is from Stanford's 256A course at CCRMA.  I did not know anything about programming here, I leave this repo up because the demo and track in the [Video demo](https://www.youtube.com/watch?v=GeAAXAgaKII) are pretty cool. -Walker 10/27/18
 
 This interactive audio-visual program places the user at the top of spherical globe.  The ring around the globe reacts to the left audio buffer.  The moons have their own dimensions/orbits, it sometimes looks like they move around the user's planet, but I don't think this is really the case.
 
